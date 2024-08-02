@@ -1,8 +1,6 @@
 # Tic-Tac-Toe-Game---Mastermind-vs-You
 Welcome to the Tic-Tac-Toe Game! This is a C++ implementation of the classic Tic-Tac-Toe game, where you can play against a friend or challenge a computer AI that strives to win using strategic moves.
 
-Here's a suggested description for your Tic-Tac-Toe game repository:
-
 ---
 
 ## Features
@@ -20,7 +18,3 @@ Here's a suggested description for your Tic-Tac-Toe game repository:
 
 ## How It Works
 The AI uses a decision-making algorithm to predict and select the best possible moves. The algorithm evaluates the current board state and attempts to either win or block the player's winning move.
-
----
-
-Feel free to customize this description further to suit your specific implementation details or to add any additional features your game might have!
